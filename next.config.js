@@ -188,3 +188,4 @@ module.exports = nextConfig;
 - Add tests — iteration 49 (2026)
 - Improve error handling — iteration 52 (2026)
 - Update dependencies — iteration 54 (2026)
+- Add example — iteration 56 (2026)
