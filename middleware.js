@@ -5,3 +5,4 @@
 - Optimize performance — iteration 15 (2015)
 - Fix edge case — iteration 16 (2015)
 - Minor cleanup — iteration 19 (2015)
+- Fix typo — iteration 26 (2015)
