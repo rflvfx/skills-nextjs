@@ -8,3 +8,4 @@ export default function Home() {
 - Document usage — iteration 24 (2015)
 - Optimize performance — iteration 32 (2015)
 - Document usage — iteration 38 (2015)
+- Polish code — iteration 41 (2015)
