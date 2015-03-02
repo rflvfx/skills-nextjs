@@ -5,3 +5,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 4 (2015)
 - Document usage — iteration 7 (2015)
 - Add validation — iteration 9 (2015)
+- Add helper — iteration 11 (2015)
