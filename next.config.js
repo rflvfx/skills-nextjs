@@ -12,3 +12,4 @@ module.exports = nextConfig;
 - Improve naming — iteration 36 (2015)
 - Document usage — iteration 46 (2015)
 - Add feature — iteration 51 (2015)
+- Update dependencies — iteration 53 (2015)
