@@ -10,3 +10,4 @@ module.exports = nextConfig;
 - Refactor module — iteration 31 (2015)
 - Document usage — iteration 35 (2015)
 - Improve naming — iteration 36 (2015)
+- Document usage — iteration 46 (2015)
