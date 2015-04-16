@@ -19,3 +19,4 @@
 - Add feature — iteration 43 (2015)
 - Extend coverage — iteration 47 (2015)
 - Improve error handling — iteration 48 (2015)
+- Add feature — iteration 54 (2015)
