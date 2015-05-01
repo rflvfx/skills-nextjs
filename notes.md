@@ -16,3 +16,4 @@
 - Fix edge case — iteration 30 (2015)
 - Add helper — iteration 34 (2015)
 - Fix lint warnings — iteration 42 (2015)
+- Add feature — iteration 43 (2015)
