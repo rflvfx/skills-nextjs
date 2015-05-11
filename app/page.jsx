@@ -12,3 +12,4 @@ export default function Home() {
 - Add helper — iteration 44 (2015)
 - Add validation — iteration 45 (2015)
 - Improve naming — iteration 52 (2015)
+- Update config — iteration 55 (2015)
