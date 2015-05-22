@@ -10,3 +10,4 @@
 - Fix lint warnings — iteration 33 (2015)
 - Add example — iteration 37 (2015)
 - Refactor module — iteration 39 (2015)
+- Add validation — iteration 40 (2015)
