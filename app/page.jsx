@@ -6,3 +6,4 @@ export default function Home() {
 - Fix edge case — iteration 18 (2015)
 - Update dependencies — iteration 22 (2015)
 - Document usage — iteration 24 (2015)
+- Optimize performance — iteration 32 (2015)
