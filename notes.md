@@ -8,3 +8,4 @@
 - Refactor module — iteration 5 (2015)
 - Fix edge case — iteration 8 (2015)
 - Add helper — iteration 10 (2015)
+- Extend coverage — iteration 20 (2015)
