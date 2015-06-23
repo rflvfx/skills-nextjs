@@ -3,3 +3,4 @@ export default function Home() {
 }
 - Fix lint warnings — iteration 6 (2015)
 - Add example — iteration 17 (2015)
+- Fix edge case — iteration 18 (2015)
