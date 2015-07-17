@@ -11,3 +11,4 @@ export default function Home() {
 - Polish code — iteration 41 (2015)
 - Add helper — iteration 44 (2015)
 - Add validation — iteration 45 (2015)
+- Improve naming — iteration 52 (2015)
