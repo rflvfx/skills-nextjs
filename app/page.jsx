@@ -5,3 +5,4 @@ export default function Home() {
 - Add example — iteration 17 (2015)
 - Fix edge case — iteration 18 (2015)
 - Update dependencies — iteration 22 (2015)
+- Document usage — iteration 24 (2015)
