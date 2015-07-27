@@ -2,3 +2,4 @@
 - Improve naming — iteration 12 (2015)
 - Add example — iteration 13 (2015)
 - Add validation — iteration 14 (2015)
+- Optimize performance — iteration 15 (2015)
