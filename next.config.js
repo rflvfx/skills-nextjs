@@ -7,3 +7,4 @@ module.exports = nextConfig;
 - Add validation — iteration 9 (2015)
 - Add helper — iteration 11 (2015)
 - Tweak implementation — iteration 27 (2015)
+- Refactor module — iteration 31 (2015)
