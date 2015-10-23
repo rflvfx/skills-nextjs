@@ -4,3 +4,4 @@
 - Add validation — iteration 14 (2015)
 - Optimize performance — iteration 15 (2015)
 - Fix edge case — iteration 16 (2015)
+- Minor cleanup — iteration 19 (2015)
