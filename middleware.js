@@ -7,3 +7,4 @@
 - Minor cleanup — iteration 19 (2015)
 - Fix typo — iteration 26 (2015)
 - Update dependencies — iteration 28 (2015)
+- Fix lint warnings — iteration 33 (2015)
