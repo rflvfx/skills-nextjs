@@ -9,3 +9,4 @@
 - Update dependencies — iteration 28 (2015)
 - Fix lint warnings — iteration 33 (2015)
 - Add example — iteration 37 (2015)
+- Refactor module — iteration 39 (2015)
