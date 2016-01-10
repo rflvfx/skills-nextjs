@@ -19,3 +19,4 @@
 - Document usage — iteration 7 (2016)
 - Improve naming — iteration 9 (2016)
 - Add example — iteration 11 (2016)
+- Update config — iteration 13 (2016)
