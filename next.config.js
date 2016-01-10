@@ -22,3 +22,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 21 (2016)
 - Update config — iteration 27 (2016)
 - Add helper — iteration 32 (2016)
+- Optimize performance — iteration 38 (2016)
