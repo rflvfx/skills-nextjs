@@ -13,3 +13,4 @@ export default function Home() {
 - Add validation — iteration 45 (2015)
 - Improve naming — iteration 52 (2015)
 - Update config — iteration 55 (2015)
+- Fix lint warnings — iteration 1 (2016)
