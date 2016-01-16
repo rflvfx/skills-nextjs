@@ -18,3 +18,4 @@
 - Update dependencies — iteration 3 (2016)
 - Document usage — iteration 7 (2016)
 - Improve naming — iteration 9 (2016)
+- Add example — iteration 11 (2016)
