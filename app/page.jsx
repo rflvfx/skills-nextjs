@@ -26,3 +26,4 @@ export default function Home() {
 - Add tests — iteration 43 (2016)
 - Fix typo — iteration 52 (2016)
 - Document usage — iteration 53 (2016)
+- Fix typo — iteration 56 (2016)
