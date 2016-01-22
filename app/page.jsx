@@ -20,3 +20,4 @@ export default function Home() {
 - Extend coverage — iteration 28 (2016)
 - Optimize performance — iteration 29 (2016)
 - Refactor module — iteration 31 (2016)
+- Improve naming — iteration 33 (2016)
