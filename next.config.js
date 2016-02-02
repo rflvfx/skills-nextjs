@@ -15,3 +15,4 @@ module.exports = nextConfig;
 - Update dependencies — iteration 53 (2015)
 - Improve error handling — iteration 57 (2015)
 - Add feature — iteration 5 (2016)
+- Polish code — iteration 14 (2016)
