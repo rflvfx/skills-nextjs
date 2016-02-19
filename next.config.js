@@ -14,3 +14,4 @@ module.exports = nextConfig;
 - Add feature — iteration 51 (2015)
 - Update dependencies — iteration 53 (2015)
 - Improve error handling — iteration 57 (2015)
+- Add feature — iteration 5 (2016)
