@@ -24,3 +24,4 @@
 - Optimize performance — iteration 59 (2015)
 - Fix edge case — iteration 2 (2016)
 - Polish code — iteration 8 (2016)
+- Minor cleanup — iteration 10 (2016)
