@@ -23,3 +23,4 @@
 - Fix lint warnings — iteration 19 (2016)
 - Add helper — iteration 22 (2016)
 - Polish code — iteration 35 (2016)
+- Fix lint warnings — iteration 36 (2016)
