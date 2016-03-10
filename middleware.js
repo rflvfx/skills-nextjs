@@ -15,3 +15,4 @@
 - Add feature — iteration 50 (2015)
 - Update dependencies — iteration 58 (2015)
 - Update docs — iteration 60 (2015)
+- Update dependencies — iteration 3 (2016)
