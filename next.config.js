@@ -17,3 +17,4 @@ module.exports = nextConfig;
 - Add feature — iteration 5 (2016)
 - Polish code — iteration 14 (2016)
 - Improve error handling — iteration 15 (2016)
+- Fix typo — iteration 16 (2016)
