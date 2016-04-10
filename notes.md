@@ -34,3 +34,4 @@
 - Add validation — iteration 30 (2016)
 - Fix typo — iteration 34 (2016)
 - Optimize performance — iteration 40 (2016)
+- Update config — iteration 44 (2016)
