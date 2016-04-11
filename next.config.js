@@ -18,3 +18,4 @@ module.exports = nextConfig;
 - Polish code — iteration 14 (2016)
 - Improve error handling — iteration 15 (2016)
 - Fix typo — iteration 16 (2016)
+- Extend coverage — iteration 20 (2016)
