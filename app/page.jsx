@@ -27,3 +27,4 @@ export default function Home() {
 - Fix typo — iteration 52 (2016)
 - Document usage — iteration 53 (2016)
 - Fix typo — iteration 56 (2016)
+- Update docs — iteration 58 (2016)
