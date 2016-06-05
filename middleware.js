@@ -25,3 +25,4 @@
 - Polish code — iteration 35 (2016)
 - Fix lint warnings — iteration 36 (2016)
 - Fix edge case — iteration 37 (2016)
+- Update dependencies — iteration 41 (2016)
