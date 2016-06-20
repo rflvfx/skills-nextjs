@@ -25,3 +25,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 38 (2016)
 - Add tests — iteration 45 (2016)
 - Tweak implementation — iteration 48 (2016)
+- Add example — iteration 50 (2016)
