@@ -30,3 +30,4 @@
 - Improve naming — iteration 47 (2016)
 - Fix typo — iteration 49 (2016)
 - Add validation — iteration 55 (2016)
+- Polish code — iteration 59 (2016)
