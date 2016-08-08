@@ -17,3 +17,4 @@ export default function Home() {
 - Improve error handling — iteration 4 (2016)
 - Update dependencies — iteration 6 (2016)
 - Tweak implementation — iteration 17 (2016)
+- Extend coverage — iteration 28 (2016)
