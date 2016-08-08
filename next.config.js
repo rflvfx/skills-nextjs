@@ -24,3 +24,4 @@ module.exports = nextConfig;
 - Add helper — iteration 32 (2016)
 - Optimize performance — iteration 38 (2016)
 - Add tests — iteration 45 (2016)
+- Tweak implementation — iteration 48 (2016)
