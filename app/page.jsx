@@ -19,3 +19,4 @@ export default function Home() {
 - Tweak implementation — iteration 17 (2016)
 - Extend coverage — iteration 28 (2016)
 - Optimize performance — iteration 29 (2016)
+- Refactor module — iteration 31 (2016)
