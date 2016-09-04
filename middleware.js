@@ -17,3 +17,4 @@
 - Update docs — iteration 60 (2015)
 - Update dependencies — iteration 3 (2016)
 - Document usage — iteration 7 (2016)
+- Improve naming — iteration 9 (2016)
