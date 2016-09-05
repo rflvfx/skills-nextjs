@@ -14,3 +14,4 @@ export default function Home() {
 - Improve naming — iteration 52 (2015)
 - Update config — iteration 55 (2015)
 - Fix lint warnings — iteration 1 (2016)
+- Improve error handling — iteration 4 (2016)
