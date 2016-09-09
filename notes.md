@@ -27,3 +27,4 @@
 - Minor cleanup — iteration 10 (2016)
 - Optimize performance — iteration 12 (2016)
 - Add validation — iteration 18 (2016)
+- Polish code — iteration 23 (2016)
