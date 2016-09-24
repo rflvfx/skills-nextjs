@@ -22,3 +22,4 @@ export default function Home() {
 - Refactor module — iteration 31 (2016)
 - Improve naming — iteration 33 (2016)
 - Improve naming — iteration 39 (2016)
+- Tweak implementation — iteration 42 (2016)
