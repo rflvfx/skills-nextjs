@@ -20,3 +20,4 @@
 - Improve naming — iteration 9 (2016)
 - Add example — iteration 11 (2016)
 - Update config — iteration 13 (2016)
+- Fix lint warnings — iteration 19 (2016)
