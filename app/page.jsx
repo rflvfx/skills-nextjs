@@ -24,3 +24,4 @@ export default function Home() {
 - Improve naming — iteration 39 (2016)
 - Tweak implementation — iteration 42 (2016)
 - Add tests — iteration 43 (2016)
+- Fix typo — iteration 52 (2016)
