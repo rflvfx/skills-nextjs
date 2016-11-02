@@ -32,3 +32,4 @@
 - Add validation — iteration 25 (2016)
 - Tweak implementation — iteration 26 (2016)
 - Add validation — iteration 30 (2016)
+- Fix typo — iteration 34 (2016)
