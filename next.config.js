@@ -20,3 +20,4 @@ module.exports = nextConfig;
 - Fix typo — iteration 16 (2016)
 - Extend coverage — iteration 20 (2016)
 - Fix edge case — iteration 21 (2016)
+- Update config — iteration 27 (2016)
