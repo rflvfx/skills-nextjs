@@ -42,3 +42,4 @@ module.exports = nextConfig;
 - Add tests — iteration 31 (2017)
 - Extend coverage — iteration 36 (2017)
 - Add feature — iteration 41 (2017)
+- Fix typo — iteration 45 (2017)
