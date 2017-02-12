@@ -51,3 +51,4 @@
 - Add helper — iteration 40 (2017)
 - Optimize performance — iteration 46 (2017)
 - Add example — iteration 49 (2017)
+- Polish code — iteration 56 (2017)
