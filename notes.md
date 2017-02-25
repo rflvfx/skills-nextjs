@@ -44,3 +44,4 @@
 - Update dependencies — iteration 17 (2017)
 - Fix typo — iteration 21 (2017)
 - Extend coverage — iteration 25 (2017)
+- Add example — iteration 34 (2017)
