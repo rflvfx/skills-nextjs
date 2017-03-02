@@ -29,3 +29,4 @@ export default function Home() {
 - Fix typo — iteration 56 (2016)
 - Update docs — iteration 58 (2016)
 - Update config — iteration 60 (2016)
+- Minor cleanup — iteration 11 (2017)
