@@ -37,3 +37,4 @@
 - Extend coverage — iteration 10 (2017)
 - Add validation — iteration 16 (2017)
 - Improve naming — iteration 18 (2017)
+- Document usage — iteration 28 (2017)
