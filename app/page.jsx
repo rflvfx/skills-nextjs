@@ -39,3 +39,4 @@ export default function Home() {
 - Update docs — iteration 51 (2017)
 - Improve naming — iteration 52 (2017)
 - Refactor module — iteration 53 (2017)
+- Update dependencies — iteration 58 (2017)
