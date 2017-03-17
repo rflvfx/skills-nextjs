@@ -45,3 +45,4 @@ module.exports = nextConfig;
 - Fix typo — iteration 45 (2017)
 - Extend coverage — iteration 54 (2017)
 - Add example — iteration 55 (2017)
+- Update config — iteration 59 (2017)
