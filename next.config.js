@@ -32,3 +32,4 @@ module.exports = nextConfig;
 - Refactor module — iteration 12 (2017)
 - Add example — iteration 13 (2017)
 - Fix typo — iteration 14 (2017)
+- Fix typo — iteration 15 (2017)
