@@ -39,3 +39,4 @@
 - Document usage — iteration 57 (2016)
 - Add feature — iteration 3 (2017)
 - Update config — iteration 7 (2017)
+- Add validation — iteration 8 (2017)
