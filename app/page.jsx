@@ -38,3 +38,4 @@ export default function Home() {
 - Polish code — iteration 50 (2017)
 - Update docs — iteration 51 (2017)
 - Improve naming — iteration 52 (2017)
+- Refactor module — iteration 53 (2017)
