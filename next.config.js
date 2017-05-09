@@ -37,3 +37,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 20 (2017)
 - Fix lint warnings — iteration 22 (2017)
 - Minor cleanup — iteration 23 (2017)
+- Add validation — iteration 24 (2017)
