@@ -43,3 +43,4 @@
 - Update docs — iteration 9 (2017)
 - Update dependencies — iteration 17 (2017)
 - Fix typo — iteration 21 (2017)
+- Extend coverage — iteration 25 (2017)
