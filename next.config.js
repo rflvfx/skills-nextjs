@@ -28,3 +28,4 @@ module.exports = nextConfig;
 - Add example — iteration 50 (2016)
 - Add tests — iteration 51 (2016)
 - Extend coverage — iteration 1 (2017)
+- Fix lint warnings — iteration 4 (2017)
