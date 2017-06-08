@@ -41,3 +41,4 @@
 - Update config — iteration 7 (2017)
 - Add validation — iteration 8 (2017)
 - Update docs — iteration 9 (2017)
+- Update dependencies — iteration 17 (2017)
