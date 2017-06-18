@@ -32,3 +32,4 @@ export default function Home() {
 - Minor cleanup — iteration 11 (2017)
 - Add tests — iteration 26 (2017)
 - Document usage — iteration 27 (2017)
+- Improve naming — iteration 33 (2017)
