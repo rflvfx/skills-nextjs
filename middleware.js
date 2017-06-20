@@ -35,3 +35,4 @@
 - Refactor module — iteration 5 (2017)
 - Fix typo — iteration 6 (2017)
 - Extend coverage — iteration 10 (2017)
+- Add validation — iteration 16 (2017)
