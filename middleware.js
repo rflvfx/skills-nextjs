@@ -40,3 +40,4 @@
 - Document usage — iteration 28 (2017)
 - Add feature — iteration 30 (2017)
 - Update docs — iteration 32 (2017)
+- Optimize performance — iteration 42 (2017)
