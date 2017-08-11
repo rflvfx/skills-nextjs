@@ -40,3 +40,4 @@
 - Add feature — iteration 3 (2017)
 - Update config — iteration 7 (2017)
 - Add validation — iteration 8 (2017)
+- Update docs — iteration 9 (2017)
