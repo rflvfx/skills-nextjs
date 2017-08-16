@@ -36,3 +36,4 @@
 - Fix typo — iteration 6 (2017)
 - Extend coverage — iteration 10 (2017)
 - Add validation — iteration 16 (2017)
+- Improve naming — iteration 18 (2017)
