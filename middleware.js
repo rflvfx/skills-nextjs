@@ -31,3 +31,4 @@
 - Fix typo — iteration 49 (2016)
 - Add validation — iteration 55 (2016)
 - Polish code — iteration 59 (2016)
+- Update docs — iteration 2 (2017)
