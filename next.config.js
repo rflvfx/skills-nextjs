@@ -36,3 +36,4 @@ module.exports = nextConfig;
 - Refactor module — iteration 19 (2017)
 - Fix edge case — iteration 20 (2017)
 - Fix lint warnings — iteration 22 (2017)
+- Minor cleanup — iteration 23 (2017)
