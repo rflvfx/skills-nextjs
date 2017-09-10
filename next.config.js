@@ -27,3 +27,4 @@ module.exports = nextConfig;
 - Tweak implementation — iteration 48 (2016)
 - Add example — iteration 50 (2016)
 - Add tests — iteration 51 (2016)
+- Extend coverage — iteration 1 (2017)
