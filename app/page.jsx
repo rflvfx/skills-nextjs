@@ -30,3 +30,4 @@ export default function Home() {
 - Update docs — iteration 58 (2016)
 - Update config — iteration 60 (2016)
 - Minor cleanup — iteration 11 (2017)
+- Add tests — iteration 26 (2017)
