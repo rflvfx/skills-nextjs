@@ -35,3 +35,4 @@ module.exports = nextConfig;
 - Fix typo — iteration 15 (2017)
 - Refactor module — iteration 19 (2017)
 - Fix edge case — iteration 20 (2017)
+- Fix lint warnings — iteration 22 (2017)
