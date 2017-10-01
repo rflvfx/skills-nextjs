@@ -34,3 +34,4 @@ export default function Home() {
 - Document usage — iteration 27 (2017)
 - Improve naming — iteration 33 (2017)
 - Update docs — iteration 35 (2017)
+- Improve naming — iteration 44 (2017)
