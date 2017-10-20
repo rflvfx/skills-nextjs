@@ -42,3 +42,4 @@
 - Add validation — iteration 8 (2017)
 - Update docs — iteration 9 (2017)
 - Update dependencies — iteration 17 (2017)
+- Fix typo — iteration 21 (2017)
