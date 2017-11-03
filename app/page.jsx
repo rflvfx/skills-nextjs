@@ -31,3 +31,4 @@ export default function Home() {
 - Update config — iteration 60 (2016)
 - Minor cleanup — iteration 11 (2017)
 - Add tests — iteration 26 (2017)
+- Document usage — iteration 27 (2017)
