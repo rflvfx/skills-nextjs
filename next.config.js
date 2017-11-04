@@ -31,3 +31,4 @@ module.exports = nextConfig;
 - Fix lint warnings — iteration 4 (2017)
 - Refactor module — iteration 12 (2017)
 - Add example — iteration 13 (2017)
+- Fix typo — iteration 14 (2017)
