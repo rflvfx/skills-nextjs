@@ -38,3 +38,4 @@ module.exports = nextConfig;
 - Fix lint warnings — iteration 22 (2017)
 - Minor cleanup — iteration 23 (2017)
 - Add validation — iteration 24 (2017)
+- Fix typo — iteration 29 (2017)
