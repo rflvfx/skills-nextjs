@@ -34,3 +34,4 @@
 - Update docs — iteration 2 (2017)
 - Refactor module — iteration 5 (2017)
 - Fix typo — iteration 6 (2017)
+- Extend coverage — iteration 10 (2017)
