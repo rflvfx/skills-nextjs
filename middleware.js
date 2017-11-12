@@ -42,3 +42,4 @@
 - Update docs — iteration 32 (2017)
 - Optimize performance — iteration 42 (2017)
 - Add validation — iteration 43 (2017)
+- Document usage — iteration 47 (2017)
