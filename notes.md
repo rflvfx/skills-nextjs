@@ -52,3 +52,4 @@
 - Optimize performance — iteration 46 (2017)
 - Add example — iteration 49 (2017)
 - Polish code — iteration 56 (2017)
+- Extend coverage — iteration 57 (2017)
