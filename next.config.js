@@ -39,3 +39,4 @@ module.exports = nextConfig;
 - Minor cleanup — iteration 23 (2017)
 - Add validation — iteration 24 (2017)
 - Fix typo — iteration 29 (2017)
+- Add tests — iteration 31 (2017)
