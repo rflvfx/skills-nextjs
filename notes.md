@@ -37,3 +37,4 @@
 - Update config — iteration 44 (2016)
 - Tweak implementation — iteration 54 (2016)
 - Document usage — iteration 57 (2016)
+- Add feature — iteration 3 (2017)
