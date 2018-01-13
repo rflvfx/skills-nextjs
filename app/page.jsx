@@ -40,3 +40,4 @@ export default function Home() {
 - Improve naming — iteration 52 (2017)
 - Refactor module — iteration 53 (2017)
 - Update dependencies — iteration 58 (2017)
+- Update docs — iteration 3 (2018)
