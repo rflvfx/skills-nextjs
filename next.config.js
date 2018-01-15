@@ -60,3 +60,4 @@ module.exports = nextConfig;
 - Add feature — iteration 41 (2018)
 - Add helper — iteration 50 (2018)
 - Optimize performance — iteration 52 (2018)
+- Fix edge case — iteration 59 (2018)
