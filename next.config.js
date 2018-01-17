@@ -46,3 +46,4 @@ module.exports = nextConfig;
 - Extend coverage — iteration 54 (2017)
 - Add example — iteration 55 (2017)
 - Update config — iteration 59 (2017)
+- Add feature — iteration 1 (2018)
