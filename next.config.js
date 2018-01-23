@@ -58,3 +58,4 @@ module.exports = nextConfig;
 - Fix typo — iteration 38 (2018)
 - Optimize performance — iteration 39 (2018)
 - Add feature — iteration 41 (2018)
+- Add helper — iteration 50 (2018)
