@@ -45,3 +45,4 @@
 - Document usage — iteration 47 (2017)
 - Add feature — iteration 48 (2017)
 - Document usage — iteration 5 (2018)
+- Tweak implementation — iteration 10 (2018)
