@@ -57,3 +57,4 @@ module.exports = nextConfig;
 - Update dependencies — iteration 34 (2018)
 - Fix typo — iteration 38 (2018)
 - Optimize performance — iteration 39 (2018)
+- Add feature — iteration 41 (2018)
