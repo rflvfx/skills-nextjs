@@ -61,3 +61,4 @@
 - Add example — iteration 16 (2018)
 - Add tests — iteration 17 (2018)
 - Minor cleanup — iteration 21 (2018)
+- Optimize performance — iteration 24 (2018)
