@@ -44,3 +44,4 @@ export default function Home() {
 - Optimize performance — iteration 6 (2018)
 - Optimize performance — iteration 8 (2018)
 - Add feature — iteration 11 (2018)
+- Add feature — iteration 12 (2018)
