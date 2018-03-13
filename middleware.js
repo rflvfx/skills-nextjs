@@ -47,3 +47,4 @@
 - Document usage — iteration 5 (2018)
 - Tweak implementation — iteration 10 (2018)
 - Document usage — iteration 23 (2018)
+- Minor cleanup — iteration 26 (2018)
