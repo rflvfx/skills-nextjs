@@ -51,3 +51,4 @@ export default function Home() {
 - Add tests — iteration 30 (2018)
 - Add validation — iteration 32 (2018)
 - Tweak implementation — iteration 35 (2018)
+- Document usage — iteration 37 (2018)
