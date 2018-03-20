@@ -55,3 +55,4 @@ export default function Home() {
 - Fix lint warnings — iteration 40 (2018)
 - Fix edge case — iteration 42 (2018)
 - Improve error handling — iteration 44 (2018)
+- Polish code — iteration 49 (2018)
