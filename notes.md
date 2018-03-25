@@ -70,3 +70,4 @@
 - Add example — iteration 47 (2018)
 - Extend coverage — iteration 51 (2018)
 - Fix edge case — iteration 53 (2018)
+- Fix edge case — iteration 56 (2018)
