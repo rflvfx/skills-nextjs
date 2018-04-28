@@ -54,3 +54,4 @@
 - Polish code — iteration 56 (2017)
 - Extend coverage — iteration 57 (2017)
 - Add feature — iteration 60 (2017)
+- Optimize performance — iteration 2 (2018)
