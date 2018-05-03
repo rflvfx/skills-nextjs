@@ -49,3 +49,4 @@ export default function Home() {
 - Optimize performance — iteration 27 (2018)
 - Add tests — iteration 29 (2018)
 - Add tests — iteration 30 (2018)
+- Add validation — iteration 32 (2018)
