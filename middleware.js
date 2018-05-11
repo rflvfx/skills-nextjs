@@ -46,3 +46,4 @@
 - Add feature — iteration 48 (2017)
 - Document usage — iteration 5 (2018)
 - Tweak implementation — iteration 10 (2018)
+- Document usage — iteration 23 (2018)
