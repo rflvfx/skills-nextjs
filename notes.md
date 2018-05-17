@@ -72,3 +72,4 @@
 - Fix edge case — iteration 53 (2018)
 - Fix edge case — iteration 56 (2018)
 - Minor cleanup — iteration 57 (2018)
+- Update config — iteration 58 (2018)
