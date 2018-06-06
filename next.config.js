@@ -47,3 +47,4 @@ module.exports = nextConfig;
 - Add example — iteration 55 (2017)
 - Update config — iteration 59 (2017)
 - Add feature — iteration 1 (2018)
+- Add tests — iteration 4 (2018)
