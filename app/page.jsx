@@ -53,3 +53,4 @@ export default function Home() {
 - Tweak implementation — iteration 35 (2018)
 - Document usage — iteration 37 (2018)
 - Fix lint warnings — iteration 40 (2018)
+- Fix edge case — iteration 42 (2018)
