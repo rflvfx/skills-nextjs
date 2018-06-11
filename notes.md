@@ -68,3 +68,4 @@
 - Add tests — iteration 43 (2018)
 - Document usage — iteration 46 (2018)
 - Add example — iteration 47 (2018)
+- Extend coverage — iteration 51 (2018)
