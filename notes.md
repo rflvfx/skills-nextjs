@@ -66,3 +66,4 @@
 - Fix lint warnings — iteration 31 (2018)
 - Improve error handling — iteration 36 (2018)
 - Add tests — iteration 43 (2018)
+- Document usage — iteration 46 (2018)
