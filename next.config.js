@@ -50,3 +50,4 @@ module.exports = nextConfig;
 - Add tests — iteration 4 (2018)
 - Fix typo — iteration 7 (2018)
 - Fix typo — iteration 9 (2018)
+- Add tests — iteration 18 (2018)
