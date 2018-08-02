@@ -55,3 +55,4 @@ module.exports = nextConfig;
 - Add tests — iteration 22 (2018)
 - Add feature — iteration 33 (2018)
 - Update dependencies — iteration 34 (2018)
+- Fix typo — iteration 38 (2018)
