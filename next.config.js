@@ -59,3 +59,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 39 (2018)
 - Add feature — iteration 41 (2018)
 - Add helper — iteration 50 (2018)
+- Optimize performance — iteration 52 (2018)
