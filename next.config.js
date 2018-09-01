@@ -49,3 +49,4 @@ module.exports = nextConfig;
 - Add feature — iteration 1 (2018)
 - Add tests — iteration 4 (2018)
 - Fix typo — iteration 7 (2018)
+- Fix typo — iteration 9 (2018)
