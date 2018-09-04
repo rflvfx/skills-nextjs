@@ -54,3 +54,4 @@ export default function Home() {
 - Document usage — iteration 37 (2018)
 - Fix lint warnings — iteration 40 (2018)
 - Fix edge case — iteration 42 (2018)
+- Improve error handling — iteration 44 (2018)
