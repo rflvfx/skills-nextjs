@@ -44,3 +44,4 @@
 - Add validation — iteration 43 (2017)
 - Document usage — iteration 47 (2017)
 - Add feature — iteration 48 (2017)
+- Document usage — iteration 5 (2018)
