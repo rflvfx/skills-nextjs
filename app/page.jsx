@@ -41,3 +41,4 @@ export default function Home() {
 - Refactor module — iteration 53 (2017)
 - Update dependencies — iteration 58 (2017)
 - Update docs — iteration 3 (2018)
+- Optimize performance — iteration 6 (2018)
