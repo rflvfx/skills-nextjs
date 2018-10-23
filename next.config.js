@@ -48,3 +48,4 @@ module.exports = nextConfig;
 - Update config — iteration 59 (2017)
 - Add feature — iteration 1 (2018)
 - Add tests — iteration 4 (2018)
+- Fix typo — iteration 7 (2018)
