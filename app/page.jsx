@@ -46,3 +46,4 @@ export default function Home() {
 - Add feature — iteration 11 (2018)
 - Add feature — iteration 12 (2018)
 - Add validation — iteration 20 (2018)
+- Optimize performance — iteration 27 (2018)
