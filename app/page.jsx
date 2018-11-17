@@ -52,3 +52,4 @@ export default function Home() {
 - Add validation — iteration 32 (2018)
 - Tweak implementation — iteration 35 (2018)
 - Document usage — iteration 37 (2018)
+- Fix lint warnings — iteration 40 (2018)
