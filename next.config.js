@@ -54,3 +54,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 19 (2018)
 - Add tests — iteration 22 (2018)
 - Add feature — iteration 33 (2018)
+- Update dependencies — iteration 34 (2018)
