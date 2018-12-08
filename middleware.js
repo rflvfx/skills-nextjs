@@ -50,3 +50,4 @@
 - Minor cleanup — iteration 26 (2018)
 - Fix typo — iteration 28 (2018)
 - Fix edge case — iteration 45 (2018)
+- Update config — iteration 48 (2018)
