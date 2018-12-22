@@ -42,3 +42,4 @@ export default function Home() {
 - Update dependencies — iteration 58 (2017)
 - Update docs — iteration 3 (2018)
 - Optimize performance — iteration 6 (2018)
+- Optimize performance — iteration 8 (2018)
