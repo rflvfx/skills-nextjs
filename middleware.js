@@ -48,3 +48,4 @@
 - Tweak implementation — iteration 10 (2018)
 - Document usage — iteration 23 (2018)
 - Minor cleanup — iteration 26 (2018)
+- Fix typo — iteration 28 (2018)
