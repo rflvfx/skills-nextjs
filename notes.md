@@ -93,3 +93,4 @@
 - Document usage — iteration 45 (2019)
 - Update docs — iteration 48 (2019)
 - Polish code — iteration 53 (2019)
+- Improve error handling — iteration 55 (2019)
