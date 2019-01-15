@@ -74,3 +74,4 @@ module.exports = nextConfig;
 - Add feature — iteration 32 (2019)
 - Refactor module — iteration 38 (2019)
 - Polish code — iteration 40 (2019)
+- Improve error handling — iteration 49 (2019)
