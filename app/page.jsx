@@ -61,3 +61,4 @@ export default function Home() {
 - Add example — iteration 11 (2019)
 - Update docs — iteration 20 (2019)
 - Update config — iteration 35 (2019)
+- Add validation — iteration 37 (2019)
