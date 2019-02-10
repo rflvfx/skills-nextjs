@@ -57,3 +57,4 @@ export default function Home() {
 - Improve error handling — iteration 44 (2018)
 - Polish code — iteration 49 (2018)
 - Improve error handling — iteration 54 (2018)
+- Refactor module — iteration 4 (2019)
