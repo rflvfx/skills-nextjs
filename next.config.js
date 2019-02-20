@@ -71,3 +71,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 23 (2019)
 - Fix lint warnings — iteration 26 (2019)
 - Add example — iteration 28 (2019)
+- Add feature — iteration 32 (2019)
