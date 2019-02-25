@@ -78,3 +78,4 @@
 - Add tests — iteration 9 (2019)
 - Fix edge case — iteration 13 (2019)
 - Add example — iteration 16 (2019)
+- Fix typo — iteration 19 (2019)
