@@ -60,3 +60,4 @@ export default function Home() {
 - Refactor module — iteration 4 (2019)
 - Add example — iteration 11 (2019)
 - Update docs — iteration 20 (2019)
+- Update config — iteration 35 (2019)
