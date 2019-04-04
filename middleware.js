@@ -60,3 +60,4 @@
 - Add helper — iteration 25 (2019)
 - Fix typo — iteration 31 (2019)
 - Update docs — iteration 33 (2019)
+- Document usage — iteration 36 (2019)
