@@ -65,3 +65,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 3 (2019)
 - Fix lint warnings — iteration 5 (2019)
 - Fix lint warnings — iteration 14 (2019)
+- Add helper — iteration 15 (2019)
