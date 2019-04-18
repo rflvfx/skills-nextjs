@@ -81,3 +81,4 @@
 - Fix typo — iteration 19 (2019)
 - Improve error handling — iteration 21 (2019)
 - Add feature — iteration 22 (2019)
+- Add validation — iteration 24 (2019)
