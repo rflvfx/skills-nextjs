@@ -55,3 +55,4 @@
 - Polish code — iteration 60 (2018)
 - Add feature — iteration 2 (2019)
 - Update docs — iteration 8 (2019)
+- Improve naming — iteration 10 (2019)
