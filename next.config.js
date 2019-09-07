@@ -67,3 +67,4 @@ module.exports = nextConfig;
 - Fix lint warnings — iteration 14 (2019)
 - Add helper — iteration 15 (2019)
 - Add tests — iteration 17 (2019)
+- Refactor module — iteration 18 (2019)
