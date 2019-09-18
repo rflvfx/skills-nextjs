@@ -87,3 +87,4 @@
 - Add helper — iteration 30 (2019)
 - Improve naming — iteration 34 (2019)
 - Update docs — iteration 39 (2019)
+- Polish code — iteration 41 (2019)
