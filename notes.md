@@ -83,3 +83,4 @@
 - Add feature — iteration 22 (2019)
 - Add validation — iteration 24 (2019)
 - Extend coverage — iteration 27 (2019)
+- Refactor module — iteration 29 (2019)
