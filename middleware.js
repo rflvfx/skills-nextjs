@@ -54,3 +54,4 @@
 - Fix edge case — iteration 55 (2018)
 - Polish code — iteration 60 (2018)
 - Add feature — iteration 2 (2019)
+- Update docs — iteration 8 (2019)
