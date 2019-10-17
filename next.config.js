@@ -75,3 +75,4 @@ module.exports = nextConfig;
 - Refactor module — iteration 38 (2019)
 - Polish code — iteration 40 (2019)
 - Improve error handling — iteration 49 (2019)
+- Update docs — iteration 51 (2019)
