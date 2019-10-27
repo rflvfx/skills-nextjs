@@ -69,3 +69,4 @@ module.exports = nextConfig;
 - Add tests — iteration 17 (2019)
 - Refactor module — iteration 18 (2019)
 - Optimize performance — iteration 23 (2019)
+- Fix lint warnings — iteration 26 (2019)
