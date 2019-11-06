@@ -70,3 +70,4 @@ module.exports = nextConfig;
 - Refactor module — iteration 18 (2019)
 - Optimize performance — iteration 23 (2019)
 - Fix lint warnings — iteration 26 (2019)
+- Add example — iteration 28 (2019)
