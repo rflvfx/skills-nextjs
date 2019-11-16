@@ -85,3 +85,4 @@
 - Extend coverage — iteration 27 (2019)
 - Refactor module — iteration 29 (2019)
 - Add helper — iteration 30 (2019)
+- Improve naming — iteration 34 (2019)
