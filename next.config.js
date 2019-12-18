@@ -78,3 +78,4 @@ module.exports = nextConfig;
 - Update docs — iteration 51 (2019)
 - Minor cleanup — iteration 52 (2019)
 - Improve error handling — iteration 57 (2019)
+- Fix edge case — iteration 58 (2019)
