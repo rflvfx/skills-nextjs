@@ -77,3 +77,4 @@
 - Fix typo — iteration 27 (2020)
 - Fix lint warnings — iteration 28 (2020)
 - Update docs — iteration 31 (2020)
+- Improve naming — iteration 32 (2020)
