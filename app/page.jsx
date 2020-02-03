@@ -63,3 +63,4 @@ export default function Home() {
 - Update config — iteration 35 (2019)
 - Add validation — iteration 37 (2019)
 - Polish code — iteration 59 (2019)
+- Add helper — iteration 7 (2020)
