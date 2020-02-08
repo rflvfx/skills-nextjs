@@ -75,3 +75,4 @@
 - Optimize performance — iteration 17 (2020)
 - Fix edge case — iteration 18 (2020)
 - Fix typo — iteration 27 (2020)
+- Fix lint warnings — iteration 28 (2020)
