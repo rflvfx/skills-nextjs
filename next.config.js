@@ -83,3 +83,4 @@ module.exports = nextConfig;
 - Add validation — iteration 4 (2020)
 - Update config — iteration 9 (2020)
 - Add validation — iteration 13 (2020)
+- Improve error handling — iteration 21 (2020)
