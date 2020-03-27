@@ -65,3 +65,4 @@ export default function Home() {
 - Polish code — iteration 59 (2019)
 - Add helper — iteration 7 (2020)
 - Document usage — iteration 8 (2020)
+- Fix typo — iteration 10 (2020)
