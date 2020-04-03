@@ -98,3 +98,4 @@
 - Fix edge case — iteration 14 (2020)
 - Add example — iteration 20 (2020)
 - Fix typo — iteration 22 (2020)
+- Fix edge case — iteration 23 (2020)
