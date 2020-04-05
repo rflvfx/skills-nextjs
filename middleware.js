@@ -71,3 +71,4 @@
 - Fix edge case — iteration 3 (2020)
 - Fix typo — iteration 5 (2020)
 - Tweak implementation — iteration 15 (2020)
+- Improve error handling — iteration 16 (2020)
