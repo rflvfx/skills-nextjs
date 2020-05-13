@@ -69,3 +69,4 @@
 - Update dependencies — iteration 56 (2019)
 - Update config — iteration 1 (2020)
 - Fix edge case — iteration 3 (2020)
+- Fix typo — iteration 5 (2020)
