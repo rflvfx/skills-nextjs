@@ -80,3 +80,4 @@ export default function Home() {
 - Minor cleanup — iteration 46 (2020)
 - Document usage — iteration 51 (2020)
 - Add feature — iteration 52 (2020)
+- Fix lint warnings — iteration 53 (2020)
