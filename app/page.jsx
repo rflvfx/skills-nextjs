@@ -71,3 +71,4 @@ export default function Home() {
 - Extend coverage — iteration 19 (2020)
 - Update config — iteration 24 (2020)
 - Add tests — iteration 30 (2020)
+- Add tests — iteration 34 (2020)
