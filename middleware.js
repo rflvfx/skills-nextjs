@@ -73,3 +73,4 @@
 - Tweak implementation — iteration 15 (2020)
 - Improve error handling — iteration 16 (2020)
 - Optimize performance — iteration 17 (2020)
+- Fix edge case — iteration 18 (2020)
