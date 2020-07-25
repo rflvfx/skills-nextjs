@@ -79,3 +79,4 @@ export default function Home() {
 - Extend coverage — iteration 41 (2020)
 - Minor cleanup — iteration 46 (2020)
 - Document usage — iteration 51 (2020)
+- Add feature — iteration 52 (2020)
