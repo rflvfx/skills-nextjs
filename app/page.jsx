@@ -76,3 +76,4 @@ export default function Home() {
 - Update docs — iteration 36 (2020)
 - Add validation — iteration 38 (2020)
 - Add helper — iteration 39 (2020)
+- Extend coverage — iteration 41 (2020)
