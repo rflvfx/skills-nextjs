@@ -87,3 +87,4 @@ module.exports = nextConfig;
 - Add validation — iteration 25 (2020)
 - Refactor module — iteration 29 (2020)
 - Fix lint warnings — iteration 45 (2020)
+- Polish code — iteration 47 (2020)
