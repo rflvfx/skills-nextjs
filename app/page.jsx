@@ -67,3 +67,4 @@ export default function Home() {
 - Document usage — iteration 8 (2020)
 - Fix typo — iteration 10 (2020)
 - Update docs — iteration 11 (2020)
+- Tweak implementation — iteration 12 (2020)
