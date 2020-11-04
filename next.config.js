@@ -90,3 +90,4 @@ module.exports = nextConfig;
 - Polish code — iteration 47 (2020)
 - Tweak implementation — iteration 50 (2020)
 - Update config — iteration 55 (2020)
+- Improve error handling — iteration 56 (2020)
