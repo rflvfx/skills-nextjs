@@ -78,3 +78,4 @@
 - Fix lint warnings — iteration 28 (2020)
 - Update docs — iteration 31 (2020)
 - Improve naming — iteration 32 (2020)
+- Optimize performance — iteration 33 (2020)
