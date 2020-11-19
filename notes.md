@@ -102,3 +102,4 @@
 - Add tests — iteration 26 (2020)
 - Update config — iteration 37 (2020)
 - Minor cleanup — iteration 42 (2020)
+- Fix edge case — iteration 43 (2020)
