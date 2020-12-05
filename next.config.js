@@ -81,3 +81,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 58 (2019)
 - Optimize performance — iteration 2 (2020)
 - Add validation — iteration 4 (2020)
+- Update config — iteration 9 (2020)
