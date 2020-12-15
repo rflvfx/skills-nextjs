@@ -69,3 +69,4 @@ export default function Home() {
 - Update docs — iteration 11 (2020)
 - Tweak implementation — iteration 12 (2020)
 - Extend coverage — iteration 19 (2020)
+- Update config — iteration 24 (2020)
