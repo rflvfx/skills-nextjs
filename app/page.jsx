@@ -89,3 +89,4 @@ export default function Home() {
 - Refactor module — iteration 21 (2021)
 - Fix typo — iteration 22 (2021)
 - Polish code — iteration 35 (2021)
+- Update docs — iteration 40 (2021)
