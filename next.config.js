@@ -102,3 +102,4 @@ module.exports = nextConfig;
 - Extend coverage — iteration 32 (2021)
 - Update dependencies — iteration 33 (2021)
 - Add example — iteration 34 (2021)
+- Optimize performance — iteration 39 (2021)
