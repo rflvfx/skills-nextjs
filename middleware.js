@@ -86,3 +86,4 @@
 - Update config — iteration 59 (2020)
 - Add helper — iteration 4 (2021)
 - Optimize performance — iteration 6 (2021)
+- Refactor module — iteration 7 (2021)
