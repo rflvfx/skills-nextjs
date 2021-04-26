@@ -103,3 +103,4 @@ module.exports = nextConfig;
 - Update dependencies — iteration 33 (2021)
 - Add example — iteration 34 (2021)
 - Optimize performance — iteration 39 (2021)
+- Refactor module — iteration 41 (2021)
