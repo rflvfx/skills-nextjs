@@ -116,3 +116,4 @@
 - Update config — iteration 23 (2021)
 - Tweak implementation — iteration 25 (2021)
 - Fix typo — iteration 28 (2021)
+- Fix lint warnings — iteration 36 (2021)
