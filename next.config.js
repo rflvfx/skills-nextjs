@@ -100,3 +100,4 @@ module.exports = nextConfig;
 - Add tests — iteration 26 (2021)
 - Add feature — iteration 30 (2021)
 - Extend coverage — iteration 32 (2021)
+- Update dependencies — iteration 33 (2021)
