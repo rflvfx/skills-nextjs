@@ -84,3 +84,4 @@ export default function Home() {
 - Improve naming — iteration 54 (2020)
 - Refactor module — iteration 60 (2020)
 - Fix lint warnings — iteration 11 (2021)
+- Optimize performance — iteration 17 (2021)
