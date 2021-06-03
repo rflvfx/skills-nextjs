@@ -110,3 +110,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 48 (2021)
 - Improve naming — iteration 52 (2021)
 - Fix typo — iteration 54 (2021)
+- Fix lint warnings — iteration 59 (2021)
