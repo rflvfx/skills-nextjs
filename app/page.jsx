@@ -86,3 +86,4 @@ export default function Home() {
 - Fix lint warnings — iteration 11 (2021)
 - Optimize performance — iteration 17 (2021)
 - Fix lint warnings — iteration 18 (2021)
+- Refactor module — iteration 21 (2021)
