@@ -115,3 +115,4 @@
 - Update dependencies — iteration 20 (2021)
 - Update config — iteration 23 (2021)
 - Tweak implementation — iteration 25 (2021)
+- Fix typo — iteration 28 (2021)
