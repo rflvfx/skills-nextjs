@@ -88,3 +88,4 @@
 - Optimize performance — iteration 6 (2021)
 - Refactor module — iteration 7 (2021)
 - Refactor module — iteration 12 (2021)
+- Polish code — iteration 27 (2021)
