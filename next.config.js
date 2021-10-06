@@ -99,3 +99,4 @@ module.exports = nextConfig;
 - Add example — iteration 24 (2021)
 - Add tests — iteration 26 (2021)
 - Add feature — iteration 30 (2021)
+- Extend coverage — iteration 32 (2021)
