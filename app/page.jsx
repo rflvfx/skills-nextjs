@@ -88,3 +88,4 @@ export default function Home() {
 - Fix lint warnings — iteration 18 (2021)
 - Refactor module — iteration 21 (2021)
 - Fix typo — iteration 22 (2021)
+- Polish code — iteration 35 (2021)
