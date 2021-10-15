@@ -95,3 +95,4 @@ module.exports = nextConfig;
 - Extend coverage — iteration 3 (2021)
 - Add helper — iteration 5 (2021)
 - Fix edge case — iteration 14 (2021)
+- Improve error handling — iteration 15 (2021)
