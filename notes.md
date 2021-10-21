@@ -104,3 +104,4 @@
 - Minor cleanup — iteration 42 (2020)
 - Fix edge case — iteration 43 (2020)
 - Update docs — iteration 58 (2020)
+- Improve naming — iteration 1 (2021)
