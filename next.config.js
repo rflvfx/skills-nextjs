@@ -98,3 +98,4 @@ module.exports = nextConfig;
 - Improve error handling — iteration 15 (2021)
 - Add example — iteration 24 (2021)
 - Add tests — iteration 26 (2021)
+- Add feature — iteration 30 (2021)
