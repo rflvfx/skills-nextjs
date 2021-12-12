@@ -87,3 +87,4 @@
 - Add helper — iteration 4 (2021)
 - Optimize performance — iteration 6 (2021)
 - Refactor module — iteration 7 (2021)
+- Refactor module — iteration 12 (2021)
