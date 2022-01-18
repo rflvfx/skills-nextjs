@@ -100,3 +100,4 @@ export default function Home() {
 - Add feature — iteration 6 (2022)
 - Improve naming — iteration 7 (2022)
 - Tweak implementation — iteration 12 (2022)
+- Update docs — iteration 13 (2022)
