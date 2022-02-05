@@ -98,3 +98,4 @@ export default function Home() {
 - Polish code — iteration 4 (2022)
 - Optimize performance — iteration 5 (2022)
 - Add feature — iteration 6 (2022)
+- Improve naming — iteration 7 (2022)
