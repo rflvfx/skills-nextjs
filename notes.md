@@ -125,3 +125,4 @@
 - Update docs — iteration 10 (2022)
 - Tweak implementation — iteration 11 (2022)
 - Improve naming — iteration 16 (2022)
+- Improve naming — iteration 19 (2022)
