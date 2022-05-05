@@ -117,3 +117,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 31 (2022)
 - Add example — iteration 37 (2022)
 - Document usage — iteration 41 (2022)
+- Fix typo — iteration 50 (2022)
