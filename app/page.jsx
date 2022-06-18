@@ -106,3 +106,4 @@ export default function Home() {
 - Add helper — iteration 30 (2022)
 - Refactor module — iteration 34 (2022)
 - Document usage — iteration 38 (2022)
+- Document usage — iteration 40 (2022)
