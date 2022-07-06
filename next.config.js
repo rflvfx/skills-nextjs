@@ -115,3 +115,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 9 (2022)
 - Add feature — iteration 21 (2022)
 - Fix edge case — iteration 31 (2022)
+- Add example — iteration 37 (2022)
