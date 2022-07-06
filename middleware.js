@@ -108,3 +108,4 @@
 - Fix typo — iteration 39 (2022)
 - Add example — iteration 44 (2022)
 - Tweak implementation — iteration 45 (2022)
+- Document usage — iteration 48 (2022)
