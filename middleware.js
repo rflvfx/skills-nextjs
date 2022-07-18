@@ -96,3 +96,4 @@
 - Add feature — iteration 45 (2021)
 - Add tests — iteration 46 (2021)
 - Update docs — iteration 60 (2021)
+- Refactor module — iteration 1 (2022)
