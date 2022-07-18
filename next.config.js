@@ -120,3 +120,4 @@ module.exports = nextConfig;
 - Fix typo — iteration 50 (2022)
 - Fix edge case — iteration 53 (2022)
 - Fix typo — iteration 55 (2022)
+- Minor cleanup — iteration 56 (2022)
