@@ -98,3 +98,4 @@
 - Update docs — iteration 60 (2021)
 - Refactor module — iteration 1 (2022)
 - Update dependencies — iteration 2 (2022)
+- Fix edge case — iteration 14 (2022)
