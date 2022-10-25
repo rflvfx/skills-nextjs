@@ -103,3 +103,4 @@ export default function Home() {
 - Update docs — iteration 13 (2022)
 - Fix edge case — iteration 23 (2022)
 - Update dependencies — iteration 26 (2022)
+- Add helper — iteration 30 (2022)
