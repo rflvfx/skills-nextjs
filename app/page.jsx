@@ -107,3 +107,4 @@ export default function Home() {
 - Refactor module — iteration 34 (2022)
 - Document usage — iteration 38 (2022)
 - Document usage — iteration 40 (2022)
+- Update docs — iteration 46 (2022)
