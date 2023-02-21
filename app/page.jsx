@@ -113,3 +113,4 @@ export default function Home() {
 - Add validation — iteration 60 (2022)
 - Refactor module — iteration 7 (2023)
 - Improve naming — iteration 8 (2023)
+- Document usage — iteration 11 (2023)
