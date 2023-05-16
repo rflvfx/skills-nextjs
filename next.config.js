@@ -130,3 +130,4 @@ module.exports = nextConfig;
 - Add feature — iteration 19 (2023)
 - Add tests — iteration 28 (2023)
 - Improve naming — iteration 31 (2023)
+- Tweak implementation — iteration 39 (2023)
