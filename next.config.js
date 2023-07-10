@@ -123,3 +123,4 @@ module.exports = nextConfig;
 - Minor cleanup — iteration 56 (2022)
 - Improve naming — iteration 59 (2022)
 - Polish code — iteration 2 (2023)
+- Document usage — iteration 4 (2023)
