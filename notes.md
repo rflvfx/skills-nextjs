@@ -152,3 +152,4 @@
 - Add feature — iteration 25 (2023)
 - Update dependencies — iteration 26 (2023)
 - Fix typo — iteration 32 (2023)
+- Fix edge case — iteration 43 (2023)
