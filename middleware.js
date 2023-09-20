@@ -110,3 +110,4 @@
 - Tweak implementation — iteration 45 (2022)
 - Document usage — iteration 48 (2022)
 - Update config — iteration 49 (2022)
+- Fix typo — iteration 12 (2023)
