@@ -114,3 +114,4 @@ export default function Home() {
 - Refactor module — iteration 7 (2023)
 - Improve naming — iteration 8 (2023)
 - Document usage — iteration 11 (2023)
+- Document usage — iteration 21 (2023)
