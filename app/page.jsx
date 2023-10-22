@@ -116,3 +116,4 @@ export default function Home() {
 - Document usage — iteration 11 (2023)
 - Document usage — iteration 21 (2023)
 - Optimize performance — iteration 23 (2023)
+- Fix edge case — iteration 27 (2023)
