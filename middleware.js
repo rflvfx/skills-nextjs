@@ -115,3 +115,4 @@
 - Tweak implementation — iteration 18 (2023)
 - Update dependencies — iteration 22 (2023)
 - Add example — iteration 29 (2023)
+- Refactor module — iteration 30 (2023)
