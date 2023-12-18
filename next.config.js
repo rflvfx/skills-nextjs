@@ -125,3 +125,4 @@ module.exports = nextConfig;
 - Polish code — iteration 2 (2023)
 - Document usage — iteration 4 (2023)
 - Optimize performance — iteration 5 (2023)
+- Add validation — iteration 9 (2023)
