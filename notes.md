@@ -164,3 +164,4 @@
 - Update dependencies — iteration 22 (2024)
 - Add example — iteration 24 (2024)
 - Optimize performance — iteration 28 (2024)
+- Add validation — iteration 32 (2024)
