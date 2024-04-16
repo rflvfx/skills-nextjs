@@ -142,3 +142,4 @@ module.exports = nextConfig;
 - Improve error handling — iteration 33 (2024)
 - Extend coverage — iteration 36 (2024)
 - Polish code — iteration 41 (2024)
+- Add example — iteration 43 (2024)
