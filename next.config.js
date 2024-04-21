@@ -135,3 +135,4 @@ module.exports = nextConfig;
 - Update docs — iteration 53 (2023)
 - Minor cleanup — iteration 2 (2024)
 - Add helper — iteration 3 (2024)
+- Document usage — iteration 11 (2024)
