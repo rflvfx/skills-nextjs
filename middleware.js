@@ -139,3 +139,4 @@
 - Fix edge case — iteration 18 (2024)
 - Polish code — iteration 19 (2024)
 - Document usage — iteration 20 (2024)
+- Update docs — iteration 25 (2024)
