@@ -138,3 +138,4 @@
 - Tweak implementation — iteration 17 (2024)
 - Fix edge case — iteration 18 (2024)
 - Polish code — iteration 19 (2024)
+- Document usage — iteration 20 (2024)
