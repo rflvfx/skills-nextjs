@@ -172,3 +172,4 @@
 - Minor cleanup — iteration 47 (2024)
 - Document usage — iteration 52 (2024)
 - Tweak implementation — iteration 56 (2024)
+- Improve error handling — iteration 57 (2024)
