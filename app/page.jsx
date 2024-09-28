@@ -127,3 +127,4 @@ export default function Home() {
 - Add feature — iteration 1 (2024)
 - Improve naming — iteration 5 (2024)
 - Fix typo — iteration 6 (2024)
+- Improve error handling — iteration 27 (2024)
