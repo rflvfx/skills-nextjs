@@ -138,3 +138,4 @@ module.exports = nextConfig;
 - Document usage — iteration 11 (2024)
 - Add example — iteration 21 (2024)
 - Add helper — iteration 23 (2024)
+- Improve naming — iteration 26 (2024)
