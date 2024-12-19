@@ -134,3 +134,4 @@ module.exports = nextConfig;
 - Fix edge case — iteration 52 (2023)
 - Update docs — iteration 53 (2023)
 - Minor cleanup — iteration 2 (2024)
+- Add helper — iteration 3 (2024)
