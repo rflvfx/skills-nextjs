@@ -145,3 +145,4 @@ export default function Home() {
 - Add feature — iteration 30 (2025)
 - Fix typo — iteration 33 (2025)
 - Extend coverage — iteration 37 (2025)
+- Fix edge case — iteration 40 (2025)
