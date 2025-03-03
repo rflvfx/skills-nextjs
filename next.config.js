@@ -167,3 +167,4 @@ module.exports = nextConfig;
 - Improve error handling — iteration 45 (2025)
 - Update config — iteration 47 (2025)
 - Update config — iteration 51 (2025)
+- Add helper — iteration 52 (2025)
