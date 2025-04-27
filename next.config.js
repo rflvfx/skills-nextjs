@@ -157,3 +157,4 @@ module.exports = nextConfig;
 - Minor cleanup — iteration 17 (2025)
 - Extend coverage — iteration 23 (2025)
 - Update docs — iteration 25 (2025)
+- Add validation — iteration 28 (2025)
