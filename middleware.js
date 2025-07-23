@@ -159,3 +159,4 @@
 - Improve naming — iteration 48 (2025)
 - Minor cleanup — iteration 55 (2025)
 - Extend coverage — iteration 56 (2025)
+- Add validation — iteration 57 (2025)
