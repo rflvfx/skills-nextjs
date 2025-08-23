@@ -163,3 +163,4 @@ module.exports = nextConfig;
 - Add feature — iteration 36 (2025)
 - Refactor module — iteration 38 (2025)
 - Fix edge case — iteration 42 (2025)
+- Add helper — iteration 43 (2025)
