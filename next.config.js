@@ -155,3 +155,4 @@ module.exports = nextConfig;
 - Document usage — iteration 8 (2025)
 - Optimize performance — iteration 12 (2025)
 - Minor cleanup — iteration 17 (2025)
+- Extend coverage — iteration 23 (2025)
