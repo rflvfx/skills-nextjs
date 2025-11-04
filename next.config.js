@@ -156,3 +156,4 @@ module.exports = nextConfig;
 - Optimize performance — iteration 12 (2025)
 - Minor cleanup — iteration 17 (2025)
 - Extend coverage — iteration 23 (2025)
+- Update docs — iteration 25 (2025)
