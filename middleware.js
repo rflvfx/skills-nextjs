@@ -154,3 +154,4 @@
 - Tweak implementation — iteration 22 (2025)
 - Tweak implementation — iteration 24 (2025)
 - Minor cleanup — iteration 31 (2025)
+- Update docs — iteration 32 (2025)
