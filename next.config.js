@@ -151,3 +151,4 @@ module.exports = nextConfig;
 - Add feature — iteration 60 (2024)
 - Tweak implementation — iteration 1 (2025)
 - Add helper — iteration 2 (2025)
+- Improve error handling — iteration 4 (2025)
