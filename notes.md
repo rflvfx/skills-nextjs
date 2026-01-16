@@ -185,3 +185,4 @@
 - Minor cleanup — iteration 59 (2025)
 - Add example — iteration 60 (2025)
 - Add feature — iteration 2 (2026)
+- Improve error handling — iteration 8 (2026)
