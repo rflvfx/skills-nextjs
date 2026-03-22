@@ -186,3 +186,4 @@
 - Add example — iteration 60 (2025)
 - Add feature — iteration 2 (2026)
 - Improve error handling — iteration 8 (2026)
+- Update docs — iteration 14 (2026)
