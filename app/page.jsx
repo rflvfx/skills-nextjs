@@ -153,3 +153,4 @@ export default function Home() {
 - Add validation — iteration 7 (2026)
 - Add tests — iteration 10 (2026)
 - Add tests — iteration 11 (2026)
+- Add helper — iteration 15 (2026)
