@@ -149,3 +149,4 @@ export default function Home() {
 - Extend coverage — iteration 41 (2025)
 - Update docs — iteration 44 (2025)
 - Add validation — iteration 50 (2025)
+- Add example — iteration 1 (2026)
