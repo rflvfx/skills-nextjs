@@ -165,3 +165,4 @@
 - Fix edge case — iteration 17 (2026)
 - Extend coverage — iteration 33 (2026)
 - Add example — iteration 37 (2026)
+- Fix edge case — iteration 39 (2026)
